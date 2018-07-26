@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [¿Qué es PRIBRELLA?](chapter1.md)
+* [Kit de préstamo](kit-de-prestamo.md)
 * [Configuración](scratch-y-gpio.md)
 * [Salidas LED](salidas-pibrella.md)
-* [Kit de préstamo](kit-de-prestamo.md)
 
