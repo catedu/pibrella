@@ -6,3 +6,5 @@ En el Scractch de la RASPBERRY (ojo no de tu PC) tenemos que configurarlo para q
 
 ![](/assets/gpio-scratch.jpg)
 >Para pararlo Editar - STOP GPIO Server
+
+
