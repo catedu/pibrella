@@ -1,3 +1,10 @@
-# My Awesome Book
+# PIBRELLA
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![](/assets/pibrella-logo.gif)
+
+En este curso vas a aprender:
+* Manejar la **RASPBPERRY** remótamente
+* Programar la RASPBERRY con **SCRATCH**
+* Con SCRATCH y **PRIBRELLA** haremos unos ejercicios sencillos de robótica
+
+![](/assets/pibrella-board.png)

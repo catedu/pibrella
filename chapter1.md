@@ -1,3 +1,24 @@
-# First Chapter
+# ¿Qué es PIBRELLA?
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Es una Shield muy sencilla que se acopla a la **Raspberry** y trae esta placa al mundo real con sencillas entradas y salidas. Esta placa se puede conseguir [por unos 10 £](http://pibrella.com/#buy).
+
+![](/assets/pibrella-board.png)
+
+>¿Qué es una Shield? Mira [esta página de la Shield Echidna](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/tema_1_como_utilizar_echidna/11_que_es_echidnashield.html)
+
+##¿Qué tiene?
+
+* Salidas tipo LED rojo, naranja y verde
+* Salida un pequeño buzzer
+* Entrada un interruptor
+* 5 Conectores de entradas ABCD
+* 5 Conectores de salida EFGH
+
+##¿Cómo se conecta?
+Pegaremos la pequeña almohadilla negra que viene en el paquete para que descanse la Pibrella en el mismo conector de HDMI de la Raspberry:
+
+![](/assets/PICT0030.JPG)
+
+Y lo conectamos en los pines de GPIO más exteriores:
+
+![](/assets/PICT0031.JPG)
