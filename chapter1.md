@@ -24,3 +24,10 @@ Pegaremos la pequeña almohadilla negra que viene en el paquete para que descans
 Y lo conectamos en los pines de GPIO más exteriores:
 
 ![](/assets/PICT0031.JPG)
+
+##¿Qué pines de GPIO utiliza?
+Pues estos:
+
+![](/assets/2018-07-31 07_29_27-Pibrella Raspberry Pi GPIO pinout.png)
+
+_Fuente: https://es.pinout.xyz/pinout/pibrella _
