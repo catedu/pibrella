@@ -6,4 +6,5 @@
 * [Configuración](scratch-y-gpio.md)
 * [Salidas LED](salidas-pibrella.md)
 * [El pensamiento computacional](el-pensamiento-computacional.md)
+* [Semáforo](semaforo.md)
 

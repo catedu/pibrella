@@ -26,8 +26,6 @@ Vamos a realizar un intermitente:
 
 %accordion%Solución%accordion%
 
-
-
 ![](/assets/intermitente.png)
 
 %/accordion%
