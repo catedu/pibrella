@@ -11,17 +11,24 @@ Son tan intuitivos que no hace falta explicarlos:
 
 * RedOn
 * RedOff
-* AmberOn
-* AmberOff
+* YellowOn
+* YellowOff
 * GreenOn
 * GreenOff
 
 ###Un ejemplo
 
-Vamos a encender el led rojo, el programa sería:
+Vamos a realizar un intermitente:
 
-![](/assets/primerprograma.png)
+{% youtube %}https://www.youtube.com/watch?v=1gLmPiOTS5E&feature=youtu.be{% endyoutube %}
 
-Y el resultado está claro, pero fíjate que se queda encendido, es decir si ahora cambiamos en el programa el mensaje por **GreenOn** y pulsamos la bandera: *¡¡ se encienden los dos* !!!:
+¿Te atreves?
 
-![](/assets/PICT0032.JPG)
+%accordion%Solución%accordion%
+
+
+
+![](/assets/intermitente.png)
+
+%/accordion%
+
