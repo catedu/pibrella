@@ -20,7 +20,7 @@ Son tan intuitivos que no hace falta explicarlos:
 
 Vamos a realizar un intermitente:
 
-{% youtube src="https://www.youtube.com/watch?v=1gLmPiOTS5E" } {% endyoutube %}
+{% youtube src="https://www.youtube.com/watch?v=1gLmPiOTS5E&feature=youtu.be" } {% endyoutube %}
 
 ¿Te atreves?
 
