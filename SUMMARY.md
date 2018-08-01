@@ -8,4 +8,5 @@
 * [El pensamiento computacional](el-pensamiento-computacional.md)
 * [Semáforo](semaforo.md)
 * [Pulsador](interruptor.md)
+* [Buzzer](buzzer.md)
 
