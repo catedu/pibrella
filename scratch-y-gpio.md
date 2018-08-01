@@ -4,12 +4,12 @@ Tienes que instalar el sistema operativo Raspbian en la micro tarjeta SD (que ya
 
 ###1.2 COMUNICARNOS CON LA RASPBERRY
 ####1.2.1 Opción A NO REMOTO
-Podríamos usar la Raspberry conectado con un teclado, ratón y una pantalla:
+Podríamos usar la Raspberry conectado con un teclado, ratón y una pantalla **y no necesitamos un ordenador, usamos el mismo ordenador que es la Raspberry!!**:
 
 ![](/assets/aparatos.png)
 
 ####1.2.2 Opción B REMOTO
-Podemos trabajar cómodamente en nuestro ordenador, y entrar en la Raspberry vía wifi, de los anteriores aparatos, sólo necesitamos la alimentación:
+Podemos trabajar cómodamente en nuestro ordenador, y entrar en la Raspberry vía wifi. De los anteriores aparatos: sólo necesitamos la alimentación:
 
 1. Una vez instalado Raspbian tienes que conectar la Raspberry a la wifi, para ello sigue los pasos marcados en el [capítulo 4](https://catedu.gitbooks.io/raspberry-muy-basico/content/4-primera-comunicacion.html).
 1. Recomendable pero no obligatorio, es aprender a configurar el sistema operativo, [comunicarte con él via texto por SSH](https://catedu.gitbooks.io/raspberry-muy-basico/content/5-ssh.html), [cambiar el usuario, contraseña](https://catedu.gitbooks.io/raspberry-muy-basico/content/6-cambiar-usuario-y-contrasena.html), esto sí que es obligatorio: [tienes que aprender a apagar](https://catedu.gitbooks.io/raspberry-muy-basico/content/7-apagar.html) ;).
