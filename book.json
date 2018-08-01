@@ -2,8 +2,8 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
     "language": "es",
     "variables": {
-        "title": "Scribus: Maqueta visualmente tus contenidos educativos",
-        "author": "Pilar Cano Lomba.",
+        "title": "Pibrella",
+        "author": "Javier Quintana Peiro",
         "collaborators": [
             { "name": ".", "edited": "" }
         ]
