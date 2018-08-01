@@ -7,4 +7,5 @@
 * [Salidas LED](salidas-pibrella.md)
 * [El pensamiento computacional](el-pensamiento-computacional.md)
 * [Semáforo](semaforo.md)
+* [Pulsador](interruptor.md)
 
