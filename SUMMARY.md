@@ -9,3 +9,5 @@
 * [Semáforo](semaforo.md)
 * [Pulsador](interruptor.md)
 * [Buzzer](buzzer.md)
+* [Entradas](entradas.md)
+
