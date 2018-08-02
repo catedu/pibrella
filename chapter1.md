@@ -16,8 +16,15 @@ Es una Shield muy sencilla que se acopla a la **Raspberry** en los **GPIO** y tr
 * 5 Conectores de entradas ABCD
 * 5 Conectores de salida EFGH
 
+##Precauciones
+Raspberry no tiene de forma nativa protecciones en sus GPIO ([ya lo sabes](https://catedu.gitbooks.io/raspberry-muy-basico/content/2-gpio.html)), Pibrella ayuda a prevenir algún daño y por eso  podemos conectar cosas en las entradas y salidas, no obstante:
+* No podemos mezclar las entradas y las salidas.
+* No podemos cortocircuitar las salidas
+* No podemos conectar ninguna potencia superior a 5V
+
+
 ##¿Cómo se conecta?
-Pegaremos la pequeña almohadilla negra que viene en el paquete para que descanse la Pibrella en el mismo conector de HDMI de la Raspberry:
+Pegaremos la pequeña almohadilla negra que viene en el paquete para que descanse la Pibrella en el mismo conector de HDMI de la Raspberry (si fuese una Raspberry antigua, pues en el otro cuadrado, [ver](http://guides.cyntech.co.uk/pibrella/pibrella/)):
 
 ![](/assets/PICT0030.JPG)
 
