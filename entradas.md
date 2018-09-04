@@ -22,7 +22,7 @@ Vamos a modificar el tambor:
 
 El archivo lo tienes en https://github.com/JavierQuintana/pibrella
 
-Hacemos dos actuaciones diferentes, decir Hola y buzzer, según el evento de InputA valga 0 o 1:
+Hacemos dos actuaciones diferentes, decir *Hola* y *buzzer*, según el evento de InputA valga 0 o 1:
 
 ![](/assets/tambor-buzzer2.png)
 
