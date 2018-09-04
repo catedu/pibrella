@@ -1,5 +1,6 @@
 #Salidas de PIBRELLA tipo LED
 ####¿Cómo se programan las SALIDAS TIPO LED?
+
 Muy fácil:
 
 1. Se crea una variable con el nombre **AddOn**
