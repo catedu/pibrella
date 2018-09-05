@@ -12,7 +12,7 @@ Internamente son interruptores en configuración [pull-up](https://catedu.gitboo
 
 ![](/assets/pull.png)
 
-Vamos a modificar el tambor:
+Vamos a modificar el tambor :
 
 {% youtube %}https://www.youtube.com/watch?v=V1W2cEvKlF4&feature=youtu.be{% endyoutube %}
 
