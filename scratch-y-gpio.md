@@ -27,4 +27,10 @@ En el Scractch de la RASPBERRY (ojo no de tu PC) tenemos que configurarlo para q
 ![](/assets/gpio-scratch.jpg)
 >Para pararlo Editar - STOP GPIO Server
 
+# 3 ¿CON SCRATCH 1.0??? ¿NO SE PUEDE CON SCRATCH 2.0?
+Sí que se puede, pero como puedes ver en la siguiente presentación **SÓLO AÑADE 2 FUNCIONES** PARA LAS GPIO, con eso sí que se puede utilizar Pibrella **pero no tiene funciones específicas para Pibrella que sí que tiene Scratch 1.0**
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-CzV7z9m4Zjgw-2Jo4g5oZJHz91PH4IcrHjbtcj0LF5HmkcdW35sWByiAMHOGAiX3cSRJhLBzfgk1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 
