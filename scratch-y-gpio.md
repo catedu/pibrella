@@ -32,5 +32,7 @@ Sí que se puede, pero como puedes ver en la siguiente presentación **SÓLO AÑ
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-CzV7z9m4Zjgw-2Jo4g5oZJHz91PH4IcrHjbtcj0LF5HmkcdW35sWByiAMHOGAiX3cSRJhLBzfgk1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+#4 ¿Y NO SE PUEDE CON PYTHON?
+Pues sí, a[quí tienes las librerías](https://github.com/pimoroni/pibrella) que necesitas y ejemplos.
 
 
