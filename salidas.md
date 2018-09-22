@@ -5,10 +5,7 @@ Vamos a utilizarlo para mover un pequeño coche, así damos movimiento a nuestra
 
 La desventaja es que no puede invertir la polaridad, luego no podemos mover nuestro coche hacia atrás.
 
-
-
-
-
 Por menos de 7€ se puede conseguir un sencillo chásis
 
 ![](/assets/coche.png)
+
