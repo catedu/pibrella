@@ -20,7 +20,11 @@ Es una Shield muy sencilla que se acopla a la **Raspberry** en los **GPIO** y tr
 Raspberry no tiene de forma nativa protecciones en sus GPIO ([ya lo sabes](https://catedu.gitbooks.io/raspberry-muy-basico/content/2-gpio.html)), Pibrella ayuda a prevenir algún daño y por eso  podemos conectar cosas en las entradas y salidas, no obstante:
 * No podemos mezclar las entradas y las salidas.
 * No podemos cortocircuitar las salidas
-* No podemos conectar ninguna potencia superior a 5V
+* No podemos conectar ninguna potencia superior a 5V.
+* Y por supuesto, como en todos las placas: No utilices las tomas de corriente ( osea los enchufes 220V de la pared), excepto para conectar las fuentes de alimentación, claro.
+
+[Fuente ](http://guides.cyntech.co.uk/pibrella/pibrella/)
+
 
 
 ##¿Cómo se conecta?
