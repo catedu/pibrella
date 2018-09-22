@@ -38,3 +38,8 @@ Pues estos:
 ![](/assets/2018-07-31 07_29_27-Pibrella Raspberry Pi GPIO pinout.png)
 
 _Fuente: https://es.pinout.xyz/pinout/pibrella _
+
+##¿Más información?
+* En [http://pibrella.com/](http://pibrella.com/) tienes la página oficial, donde a grandes rasgos explica qué es Pibrella y la tienda oficial donde comprarlo en [https://shop.cyntech.co.uk/products/pibrella](https://shop.cyntech.co.uk/products/pibrella)
+* En [http://guides.cyntech.co.uk/pibrella/pibrella/](http://guides.cyntech.co.uk/pibrella/pibrella/) tienes una página completa de documentación
+* [Muro sobre Pibrella](https://padlet.com/CATEDU/pibrella)
