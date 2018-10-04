@@ -14,7 +14,7 @@ Internamente son interruptores en configuración [pull-up](https://catedu.gitboo
 
 Vamos a modificar el tambor :
 
-{% youtube %}https://www.youtube.com/watch?v=V1W2cEvKlF4&feature=youtu.be{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=6wA7Oo8ENYc&feature=youtu.be{% endyoutube %}
 
 ¿Te atreves?
 
