@@ -16,7 +16,7 @@ Podemos trabajar cómodamente en nuestro ordenador, y entrar en la Raspberry ví
 1. Luego tienes que comunicarte en este curso VIA GRÁFICAMENTE por VNC lo tienes explicado en [el capítulo 8](https://catedu.gitbooks.io/raspberry-muy-basico/content/8-vnc.html).
 
 ####1.2.3 ¿Qué opción elegimos?
-Nosotros la B, porque si queremos hacer un coche, entonces, no tenemos otro remedio.
+De momento empieza por la A por ser más sencilla, pero llegarás a hacer un coche y te forzaremos a usar la B, ja, ja ja.
  
 # 2 CONFIGURAR SCRATCH para que utilice GPIO
 En el Scractch de la RASPBERRY (ojo no de tu PC) tenemos que configurarlo para que interactúe con el GPIO de la Raspberry:
