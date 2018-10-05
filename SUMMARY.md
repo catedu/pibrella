@@ -10,6 +10,7 @@
 * [Pulsador](interruptor.md)
 * [Buzzer](buzzer.md)
 * [Entradas](entradas.md)
+* [Hasta ahora...](hasta-ahora.md)
 * [Salidas](salidas.md)
 * [Muro](muro.md)
 
