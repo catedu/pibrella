@@ -39,6 +39,12 @@ Y el programa es sencillo:
 
 ¡¡Acuerdate de activiar GPIOServer !!!
 
+_Algunos se quejan de que no es "independiente" por culpa de los cables de alimentación. SOLUCIÓN: Pon dos baterías externás de USB típicas que se usan para los móviles_
+
+![](https://www.electrodomesta.es/images/articulos/original/bateria_externa_para_movil_mpmobile_mplipstk_b_2301-1.jpg)
+
+
+
 %/accordion%
 
 
