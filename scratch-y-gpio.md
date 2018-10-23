@@ -2,12 +2,16 @@
 
 Necesitas hacer estos pasos:
 
-1. INSTALAR EL SISTEMA OPERATIVO RASPBIAN [aquí cómo hacerlo](https://catedu.gitbooks.io/raspberry-muy-basico/content/3-raspbian.html)
-1. CONECTAR LA RASPBERRY A LA WIFI Y ASIGNARLE UNA IP FIJA [aquí cómo hacerlo](https://catedu.gitbooks.io/raspberry-muy-basico/content/4-primera-comunicacion.html)
-1. No obligatorio pero útil es el comunicarte vía remótamente de forma textual con SSH ([aquí](https://catedu.gitbooks.io/raspberry-muy-basico/content/5-ssh.html)) cambiar usuario y contraseña ([aquí](https://catedu.gitbooks.io/raspberry-muy-basico/content/6-cambiar-usuario-y-contrasena.html)) y por supuesto saber apagarlo correctamente ([aquí](https://catedu.gitbooks.io/raspberry-muy-basico/content/7-apagar.html))
-1. CONECTARTE CON LA RASPBERRY de forma remota pero gráfica con VNC [aquí como hacerlo](https://catedu.gitbooks.io/raspberry-muy-basico/content/8-vnc.html) pero este paso **déjalo para el final**, para [la práctica final del coche](/salidas.md).
+1. **INSTALAR EL SISTEMA OPERATIVO RASPBIAN** [aquí cómo hacerlo](https://catedu.gitbooks.io/raspberry-muy-basico/content/3-raspbian.html) y por supuesto saber apagarlo correctamente ([aquí](https://catedu.gitbooks.io/raspberry-muy-basico/content/7-apagar.html)).
 
-####Aclaraciones: ¿Necesito el paso 4 conectarme via remótamente con la Raspberry para la robótica Pibrella?
+
+Los siguientes pasos **déjalos para el final**, para [la práctica final del coche](/salidas.md).
+
+1. **CONECTAR LA RASPBERRY A LA WIFI Y ASIGNARLE UNA IP FIJA** [aquí cómo hacerlo](https://catedu.gitbooks.io/raspberry-muy-basico/content/4-primera-comunicacion.html) 
+1. No obligatorio pero útil es el comunicarte vía remótamente de forma textual con SSH ([aquí](https://catedu.gitbooks.io/raspberry-muy-basico/content/5-ssh.html)) cambiar usuario y contraseña ([aquí](https://catedu.gitbooks.io/raspberry-muy-basico/content/6-cambiar-usuario-y-contrasena.html))
+1. **CONECTARTE CON LA RASPBERRY de forma remota y gráfica con VNC** [aquí como hacerlo](https://catedu.gitbooks.io/raspberry-muy-basico/content/8-vnc.html) .
+
+####Aclaraciones: ¿Necesito los 3 pasos anteriores para conectarme via remótamente con la Raspberry para la robótica Pibrella?
 
 Podríamos usar la Raspberry con la Pibrella conectado con un teclado, ratón y una pantalla **y no necesitamos un ordenador, usamos el mismo ordenador que es la Raspberry!!**:
 
@@ -16,7 +20,7 @@ Podríamos usar la Raspberry con la Pibrella conectado con un teclado, ratón y 
 ####PERO.. que pasaría si ...
 Quieres hacer una práctica de la Pibrella donde se mueva por ejemplo [el coche](/salidas.md). Entonces estás obligado a comunicarte de forma remota.
 
-**Para el resto de prácticas NO ES NECESARIO COMUNICARTE DE FORMA REMOTA** incluso es más rápido utilizar diréctamente la Raspberry con la Pibrella con Pantalla, teclado y ratón.
+**Para el resto de prácticas NO ES NECESARIO COMUNICARTE DE FORMA REMOTA** incluso es más rápido utilizar diréctamente la Raspberry con la Pibrella con pantalla, teclado y ratón.
  
 # 2 CONFIGURAR SCRATCH para que utilice GPIO
 En el Scractch de la RASPBERRY (ojo no de tu PC) tenemos que configurarlo para que interactúe con el GPIO de la Raspberry:
