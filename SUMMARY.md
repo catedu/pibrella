@@ -12,5 +12,7 @@
 * [9.-Entradas](entradas.md)
 * [10.-Hasta ahora...](hasta-ahora.md)
 * [11.-Salidas](salidas.md)
+* [12.-Grupo robótica](12-grupo-robotica.md)
 * [12.-Muro](muro.md)
+* 14.-Créditos
 
