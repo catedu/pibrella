@@ -1,6 +1,6 @@
 # ¿Qué es PIBRELLA?
 
-Es una Shield muy sencilla que se acopla a la **Raspberry** en los **GPIO** y trae esta placa al mundo real con sencillas entradas y salidas. Esta placa se puede conseguir [por unos 10 £](http://pibrella.com/#buy).
+Es una Shield muy sencilla que se acopla a la **Raspberry** en los **GPIO** y trae esta placa al mundo real con sencillas entradas y salidas. Esta placa se puede conseguir [por unas 10 £](http://pibrella.com/#buy).
 
 ![](/assets/pibrella-board.png)
 
