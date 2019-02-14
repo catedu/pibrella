@@ -5,4 +5,4 @@ Esta [es la hoja de ruta](https://www.google.com/url?q=https://docs.google.com/d
   
 Como se puede ver **P8IBRELLA** es **LA ALTERNATIVA ROBÓTICA DE SCRATCH usando RASPBERRY**. O también se puede ver como para trabajar con la Raspberry, tenemos dos alternativas, con código o de forma gráfica en bloques con Scratch y Pibrella.
 
-![](https://docs.google.com/drawings/d/e/2PACX-1vSnGHqK6AD7RaD8mVMBXUwXmzE4KXQQqdhBX6rGc7arR9_DOfE02i0wSDKuY20BO7VhPk39MQVcbqX_/pub?w=967&h=1276)
+{% include "git+https://github.com/catedu/robotica.git/README.md" %}
