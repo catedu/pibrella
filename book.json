@@ -1,1 +1,43 @@
-{"plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"], "language": "es", "variables": {"title": "Pibrella", "author": "Javier Quintana Peiro", "collaborators": [{"name": ".", "edited": ""}]}, "pluginsConfig": {"image-captions": {"caption": "Imagen - _CAPTION_"}, "localized-footer": {"hline": true, "filename": "./FOOTER.md"}, "edit-link": {"base": "https://github.com/catedu/pibrella/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "pibrella"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Pibrella",
+    "author": "Javier Quintana Peiro",
+    "collaborators": [
+      {
+        "name": ".",
+        "edited": ""
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
+    },
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/pibrella/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "pibrella"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
