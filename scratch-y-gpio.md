@@ -2,14 +2,14 @@
 
 Necesitas hacer estos pasos:
 
-1. **INSTALAR EL SISTEMA OPERATIVO RASPBIAN** [aquí cómo hacerlo](https://catedu.gitbooks.io/raspberry-muy-basico/content/3-raspbian.html) y por supuesto saber apagarlo correctamente ([aquí](https://catedu.gitbooks.io/raspberry-muy-basico/content/7-apagar.html)).
+1. **INSTALAR EL SISTEMA OPERATIVO RASPBIAN** [aquí cómo hacerlo](https://catedu.github.io/raspberry-muy-basico/3-raspbian.html) y por supuesto saber apagarlo correctamente ([aquí](https://catedu.github.io/raspberry-muy-basico/7-apagar.html)).
 
 
 Los siguientes pasos **déjalos para el final**, para [la práctica final del coche](/salidas.md).
 
-1. **CONECTAR LA RASPBERRY A LA WIFI Y ASIGNARLE UNA IP FIJA** [aquí cómo hacerlo](https://catedu.gitbooks.io/raspberry-muy-basico/content/4-primera-comunicacion.html) 
-1. No obligatorio pero útil es el comunicarte vía remótamente de forma textual con SSH ([aquí](https://catedu.gitbooks.io/raspberry-muy-basico/content/5-ssh.html)) cambiar usuario y contraseña ([aquí](https://catedu.gitbooks.io/raspberry-muy-basico/content/6-cambiar-usuario-y-contrasena.html))
-1. **CONECTARTE CON LA RASPBERRY de forma remota y gráfica con VNC** [aquí como hacerlo](https://catedu.gitbooks.io/raspberry-muy-basico/content/8-vnc.html) .
+1. **CONECTAR LA RASPBERRY A LA WIFI Y ASIGNARLE UNA IP FIJA** [aquí cómo hacerlo](https://catedu.github.io/raspberry-muy-basico/4-primera-comunicacion.html) 
+1. No obligatorio pero útil es el comunicarte vía remótamente de forma textual con SSH ([aquí](https://catedu.github.io/raspberry-muy-basico/5-ssh.html)) cambiar usuario y contraseña ([aquí](https://catedu.github.io/raspberry-muy-basico/6-cambiar-usuario-y-contrasena.html))
+1. **CONECTARTE CON LA RASPBERRY de forma remota y gráfica con VNC** [aquí como hacerlo](https://catedu.github.io/raspberry-muy-basico/8-vnc.html) .
 
 ####Aclaraciones: ¿Necesito los 3 pasos anteriores para conectarme via remótamente con la Raspberry para la robótica Pibrella?
 

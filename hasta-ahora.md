@@ -8,4 +8,4 @@ Mira la diapositiva 3 y entenderás lo que quiero decir:
 
 ¿COMO SE HACE?
 
-Pues eso es que no has visto [ESTE TEMA DE RASPBERRY MUY BÁSICO](https://catedu.gitbooks.io/raspberry-muy-basico/content/8-vnc.html)
+Pues eso es que no has visto [ESTE TEMA DE RASPBERRY MUY BÁSICO](https://catedu.github.io/raspberry-muy-basico/8-vnc.html)

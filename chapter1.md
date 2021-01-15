@@ -4,9 +4,9 @@ Es una Shield muy sencilla que se acopla a la **Raspberry** en los **GPIO** y tr
 
 ![](/assets/pibrella-board.png)
 
->¿Qué es una Shield? Mira [esta página de la Shield Echidna](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/tema_1_como_utilizar_echidna/11_que_es_echidnashield.html)
->¿Qué es GPIO? pues eso es que no te has leído [este capítulo](https://catedu.gitbooks.io/raspberry-muy-basico/content/2-gpio.html)
->¿No podría pasar de la Shield y conectar los leds diréctamente? Ni pensarlo, se ve que no te has leído [este capítulo](https://catedu.gitbooks.io/raspberry-muy-basico/content/2-gpio.html)
+>¿Qué es una Shield? Mira [esta página de la Shield Echidna](https://catedu.github.io/programa-arduino-con-echidna/tema_1_como_utilizar_echidna/11_que_es_echidnashield.html)
+>¿Qué es GPIO? pues eso es que no te has leído [este capítulo](https://catedu.github.io/raspberry-muy-basico/2-gpio.html)
+>¿No podría pasar de la Shield y conectar los leds diréctamente? Ni pensarlo, se ve que no te has leído [este capítulo](https://catedu.github.io/raspberry-muy-basico/2-gpio.html)
 
 ##¿Qué tiene?
 
@@ -17,7 +17,7 @@ Es una Shield muy sencilla que se acopla a la **Raspberry** en los **GPIO** y tr
 * 5 Conectores de salida EFGH
 
 ##Precauciones
-Raspberry no tiene de forma nativa protecciones en sus GPIO ([ya lo sabes](https://catedu.gitbooks.io/raspberry-muy-basico/content/2-gpio.html)), Pibrella ayuda a prevenir algún daño y por eso  podemos conectar cosas en las entradas y salidas, no obstante:
+Raspberry no tiene de forma nativa protecciones en sus GPIO ([ya lo sabes](https://catedu.github.io/raspberry-muy-basico/2-gpio.html)), Pibrella ayuda a prevenir algún daño y por eso  podemos conectar cosas en las entradas y salidas, no obstante:
 * No podemos mezclar las entradas y las salidas.
 * No podemos cortocircuitar las salidas
 * No podemos conectar ninguna potencia superior a 5V.
