@@ -7,7 +7,7 @@ Necesitas hacer estos pasos:
 
 Los siguientes pasos **déjalos para el final**, para [la práctica final del coche](/salidas.md).
 
-1. **CONECTAR LA RASPBERRY A LA WIFI Y ASIGNARLE UNA IP FIJA** [aquí cómo hacerlo](https://catedu.github.io/raspberry-muy-basico/4-primera-comunicacion.html) 
+1. **CONECTAR LA RASPBERRY A LA WIFI Y ASIGNARLE UNA IP FIJA** [aquí cómo hacerlo](https://catedu.github.io/raspberry-muy-basico/4-primera-comunicacion.html)
 1. No obligatorio pero útil es el comunicarte vía remótamente de forma textual con SSH ([aquí](https://catedu.github.io/raspberry-muy-basico/5-ssh.html)) cambiar usuario y contraseña ([aquí](https://catedu.github.io/raspberry-muy-basico/6-cambiar-usuario-y-contrasena.html))
 1. **CONECTARTE CON LA RASPBERRY de forma remota y gráfica con VNC** [aquí como hacerlo](https://catedu.github.io/raspberry-muy-basico/8-vnc.html) .
 
@@ -21,7 +21,7 @@ Podríamos usar la Raspberry con la Pibrella conectado con un teclado, ratón y 
 Quieres hacer una práctica de la Pibrella donde se mueva por ejemplo [el coche](/salidas.md). Entonces estás obligado a comunicarte de forma remota.
 
 **Para el resto de prácticas NO ES NECESARIO COMUNICARTE DE FORMA REMOTA** incluso es más rápido utilizar diréctamente la Raspberry con la Pibrella con pantalla, teclado y ratón.
- 
+
 # 2 CONFIGURAR SCRATCH para que utilice GPIO
 En el Scractch de la RASPBERRY (ojo no de tu PC) tenemos que configurarlo para que interactúe con el GPIO de la Raspberry:
 
@@ -34,9 +34,11 @@ En el Scractch de la RASPBERRY (ojo no de tu PC) tenemos que configurarlo para q
 # 3 ¿CON SCRATCH 1.0??? ¿NO SE PUEDE CON SCRATCH 2.0?
 Sí que se puede, pero como puedes ver en la siguiente presentación **SÓLO AÑADE 2 FUNCIONES** PARA LAS GPIO, con eso sí que se puede utilizar Pibrella **pero no tiene funciones específicas para Pibrella que sí que tiene Scratch 1.0**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-CzV7z9m4Zjgw-2Jo4g5oZJHz91PH4IcrHjbtcj0LF5HmkcdW35sWByiAMHOGAiX3cSRJhLBzfgk1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-CzV7z9m4Zjgw-2Jo4g5oZJHz91PH4IcrHjbtcj0LF5HmkcdW35sWByiAMHOGAiX3cSRJhLBzfgk1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+>**danger**
+>##Ojo suponemos que te has desgargado el Raspbian gráfico con las opciones recomendadas
+>Pero si te descargas un Raspbian con entorno gráfico pero "lite" tienes que instalar el paquete **nuscratch** para que pueda controlar GPIO Scratch
 
 #4 ¿Y NO SE PUEDE CON PYTHON?
 Pues sí, a[quí tienes las librerías](https://github.com/pimoroni/pibrella) que necesitas y ejemplos.
-
-
